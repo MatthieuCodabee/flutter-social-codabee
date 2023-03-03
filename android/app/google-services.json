@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "83054607917",
+    "project_id": "renew-social-1290a",
+    "storage_bucket": "renew-social-1290a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83054607917:android:c58da2c8d174c141c2c2a4",
+        "android_client_info": {
+          "package_name": "com.codabee.fluttersocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83054607917-q12af455vhnhlni2pa2namvd1amgnmft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4mmzmDcFrazmy_Oko1ONluqP9jynWtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83054607917-9mf4ssrimujcfff608cglsreofm9fh21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83054607917-flntvdt21s2ssjg31ejiq6cf2jbls3he.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.renewSocial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83054607917:android:243500b26eacd376c2c2a4",
+        "android_client_info": {
+          "package_name": "com.example.renew_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83054607917-vkbetsgqstrt45i2g7i7d6g99p9c7tn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renew_social",
+            "certificate_hash": "8a960fd5d32f9f85c1165e592051e240fb8e07d6"
+          }
+        },
+        {
+          "client_id": "83054607917-q12af455vhnhlni2pa2namvd1amgnmft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4mmzmDcFrazmy_Oko1ONluqP9jynWtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83054607917-9mf4ssrimujcfff608cglsreofm9fh21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83054607917-flntvdt21s2ssjg31ejiq6cf2jbls3he.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.renewSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
